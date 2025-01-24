@@ -2,6 +2,5 @@
 Electrical designer calculator and more. 
 Currently has a motor size calculator and a conduit size calculator based on wire size and quantity.
 
-![image](https://github.com/Jdm2009/ElectroDesignCalc-Program/assets/139272061/706a80b5-1239-448b-a9c4-1f54cd4a6b3a)
-![Motor Wpf](https://github.com/user-attachments/assets/39262f65-d552-4fdd-b202-ad06ff1c1c1f)
-![image](https://github.com/Jdm2009/ElectroDesignCalc-Program/assets/139272061/1a4327a2-d1b7-4ca2-a889-22e961fc85b9)
+![Screenshot 2025-01-24 081856](https://github.com/user-attachments/assets/5456c04a-514e-46c6-8253-26cca6297757)
+![Screenshot 2025-01-24 081841](https://github.com/user-attachments/assets/56404e79-fbdd-45af-af1a-de542218e7d6)
